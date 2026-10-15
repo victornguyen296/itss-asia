@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<title>ITSS.asia — Dịch vụ IT, cấu hình hệ thống &amp; báo giá thiết bị</title>
+<style>
+:root{--k:#0a0a0a;--k2:#111a2e;--w:#fff;--g:#f4f6fa;--ln:#e3e7ef;--tx:#1b1f2a;--mu:#5d6678;--b:#0b5fff;--bl:#eaf2ff;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 80px);scroll-behavior:smooth}
+*{box-sizing:border-box}
+body{margin:0;background:var(--w);color:var(--tx);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:inherit}.w{max-width:1120px;margin:0 auto;padding:0 20px}
+.tb{background:var(--k);color:#cdd3e0;font-size:13px}.tb .w{display:flex;justify-content:space-between;align-items:center;min-height:38px;gap:10px}.tb span{display:flex;gap:16px;flex-wrap:wrap;padding:4px 0}.tb a{text-decoration:none}.ci{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));margin-bottom:28px}@media(max-width:700px){.tb .ad{display:none}}
+.lg{background:transparent;border:1px solid #3a3f4b;color:#fff;border-radius:6px;padding:2px 10px;cursor:pointer;font-size:12px}
+header{position:sticky;top:env(safe-area-inset-top,0px);background:var(--w);border-bottom:1px solid var(--ln);z-index:9}
+nav{display:flex;align-items:center;justify-content:space-between;height:68px}
+.logo{font-weight:800;font-size:24px;letter-spacing:-.5px;text-decoration:none}.logo b{color:var(--b)}
+.mn{display:flex;align-items:center;gap:6px}
+.mn>div{position:relative}.mn>div>a{display:block;padding:10px 14px;text-decoration:none;font-weight:600;font-size:15px}
+.mn>div:hover>a{color:var(--b)}
+.dd{display:none;position:absolute;left:0;top:100%;background:var(--w);border:1px solid var(--ln);border-radius:10px;min-width:230px;padding:6px;box-shadow:0 10px 30px rgba(0,0,0,.12)}
+.mn>div:hover .dd{display:block}.dd a{display:block;padding:8px 12px;text-decoration:none;font-size:14px;border-radius:6px}.dd a:hover{background:var(--bl);color:var(--b)}
+.bg{display:none;background:none;border:1px solid var(--ln);border-radius:8px;font-size:20px;padding:2px 10px;cursor:pointer}
+.btn{display:inline-block;background:var(--b);color:#fff;padding:12px 24px;border-radius:10px;text-decoration:none;font:inherit;font-weight:700;border:0;cursor:pointer}
+.btn.k{background:var(--k)}.btn.o{background:var(--w);color:var(--k);border:1px solid var(--ln)}
+.hero{background:var(--bl);padding:60px 0}
+.hg{display:grid;gap:36px;grid-template-columns:1.2fr 1fr;align-items:center}
+.tag{display:inline-block;background:#d9e7ff;color:var(--b);padding:5px 14px;border-radius:99px;font-size:13px;font-weight:700}
+h1{font-size:clamp(30px,5vw,48px);line-height:1.1;margin:16px 0;letter-spacing:-1.2px;text-transform:uppercase}
+.hero p.l{color:var(--mu);font-size:18px}.hero .btn{margin:6px 8px 0 0}
+.pn{background:var(--k2);border-radius:20px;padding:24px;color:#fff}.pn h3{margin:0 0 14px;font-size:22px}
+.pn a{display:block;border:2px solid #fff;border-radius:12px;padding:14px 16px;margin-bottom:12px;text-decoration:none}.pn a:hover{border-color:#5b95ff}
+.pn b{display:block}.pn span{font-size:14px;color:#b9c3da}
+section{padding:60px 0}.gr{background:var(--g)}
+.eb{color:var(--b);font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:.5px}
+h2{font-size:30px;margin:4px 0 8px;letter-spacing:-.6px}.sub{color:var(--mu);margin:0 0 28px;max-width:660px}
+.g{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.c{background:var(--w);border:1px solid var(--ln);border-radius:14px;padding:22px;text-decoration:none;display:block}
+a.c:hover{border-color:var(--b)}.c h3{margin:0 0 8px;font-size:18px}.c p{margin:0;color:var(--mu);font-size:15px}
+.ic{width:40px;height:40px;border-radius:10px;background:var(--bl);color:var(--b);display:grid;place-items:center;font-weight:800;margin-bottom:12px}
+.pl{padding:0;overflow:hidden}.pl .ph{background:var(--k);color:#fff;padding:18px 22px}.pl .ph h3{margin:0;font-size:20px}.pl .ph span{color:#8fb2ff;font-size:14px}
+.pl.hl{border:2px solid var(--b)}.pl.hl .ph{background:var(--b)}.pl.hl .ph span{color:#dbe7ff}
+.r{display:flex;justify-content:space-between;gap:12px;padding:11px 22px;border-bottom:1px solid var(--ln);font-size:14px}.r span:first-child{color:var(--mu)}.r span:last-child{font-weight:600;text-align:right}
+.pf{padding:18px 22px}.pf .btn{width:100%;text-align:center}
+.st{background:var(--b);color:#fff;padding:40px 0}.sg{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));text-align:center}.sg b{display:block;font-size:34px}.sg span{font-size:14px;opacity:.9}
+.tg{display:flex;flex-wrap:wrap;gap:10px}.tg span{background:var(--w);border:1px solid var(--ln);border-radius:99px;padding:7px 16px;font-size:14px;font-weight:600}
+.case{background:var(--k);color:#fff;border-radius:18px;padding:34px}.case p{color:#b9c1d2}.case .eb{color:#8fb2ff}
+details{background:var(--w);border:1px solid var(--ln);border-radius:12px;padding:14px 18px;margin-bottom:10px}summary{cursor:pointer;font-weight:600}details p{color:var(--mu);margin:8px 0 0;font-size:15px}
+.cta{background:var(--k);color:#fff;text-align:center;padding:52px 0}.cta p{color:#b9c1d2;max-width:560px;margin:0 auto 20px}
+.bc{font-size:13px;color:var(--mu);margin-bottom:8px}.bc a{color:var(--b);text-decoration:none}
+.ph1{background:var(--bl);padding:44px 0}.ph1 h1{font-size:clamp(28px,4.5vw,40px);margin:6px 0}.ph1 p{color:var(--mu);font-size:18px;max-width:680px;margin:0}
+form{display:grid;gap:12px;max-width:620px}input,textarea,select{width:100%;padding:12px;border-radius:10px;border:1px solid var(--ln);background:var(--w);color:var(--tx);font:inherit}
+footer{background:var(--k);color:#aab2c3;padding:44px 0 26px;font-size:14px}.fg{display:grid;gap:28px;grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+footer h4{color:#fff;margin:0 0 10px;font-size:15px}footer a{display:block;text-decoration:none;margin:5px 0}.cp{border-top:1px solid #23262e;margin-top:26px;padding-top:16px}
+.fl{position:fixed;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));background:var(--b);color:#fff;padding:12px 18px;border-radius:99px;text-decoration:none;font-weight:700;box-shadow:0 6px 20px rgba(0,0,0,.3);z-index:9}
+@media(max-width:900px){.hg{grid-template-columns:1fr}.bg{display:block}.mn{display:none;position:absolute;left:0;right:0;top:68px;background:var(--w);border-bottom:1px solid var(--ln);flex-direction:column;align-items:stretch;padding:8px 20px}.mn.o{display:flex}.dd{display:block;position:static;border:0;box-shadow:none;padding:0 0 0 12px}}
+</style>
+</head>
+<body>
+<div class="tb"><div class="w"><span><a class="ad" href="#/contact">15 Lê Thánh Tôn, P. Sài Gòn, TP. HCM</a><a href="mailto:hello@itss.asia">hello@itss.asia</a><a href="https://wa.me/84908842096">+84 908 842 096</a></span><button class="lg" id="lg">EN</button></div></div>
+<header><div class="w"><nav><a class="logo" href="#/">ITSS<b>.asia</b></a><button class="bg" id="bg" aria-label="Menu">☰</button><div class="mn" id="mn"></div></nav></div></header>
+<main id="app"></main>
+<div id="ft"></div>
+<a class="fl" id="fl" href="#/contact"></a>
+<script>
+(function(){
+var L=0;try{L=localStorage.getItem('itss-l')==='en'?1:0}catch(e){}
+var s=function(x){return x.split('|')[L]};
+var SV=['helpdesk','support','config','admin','hardware','pricing'],SO=['m365','auto','pbx','lic'];
+var P={
+helpdesk:['IT Helpdesk|IT Helpdesk','Một đầu mối tiếp nhận và xử lý mọi yêu cầu hỗ trợ của người dùng.|One point of contact for every user support request.',[
+['Tiếp nhận yêu cầu|Request intake','Qua email hoặc chat, mỗi yêu cầu có người phụ trách rõ ràng.|By email or chat, each request has a clear owner.'],
+['Hỗ trợ từ xa|Remote support','Xử lý máy tính, email, tài khoản, máy in trong giờ hành chính.|PCs, email, accounts and printers during business hours.'],
+['Hỗ trợ tại chỗ|On-site visits','Đến văn phòng khi cần thay thiết bị hoặc xử lý sự cố mạng.|On-site for hardware swaps and network faults.'],
+['Lịch sử xử lý|Ticket history','Ghi nhận sự cố lặp lại để khắc phục tận gốc.|Repeat issues are logged and fixed at the root.']]],
+support:['IT Support|IT Support','Hỗ trợ từ xa và tại chỗ cho máy tính, email, mạng và máy in.|Remote and on-site support for PCs, email, network and printers.',[
+['Máy tính &amp; phần mềm|PCs &amp; software','Cài đặt, xử lý lỗi, cập nhật Windows và phần mềm văn phòng.|Setup, troubleshooting, Windows and Office updates.'],
+['Email &amp; tài khoản|Email &amp; accounts','Tạo, phân quyền, đặt lại mật khẩu trên Microsoft 365.|Create, assign rights and reset passwords on Microsoft 365.'],
+['Mạng &amp; Wi-Fi|Network &amp; Wi-Fi','Chẩn đoán mất mạng, Wi-Fi yếu, lỗi VPN.|Diagnose outages, weak Wi-Fi and VPN faults.'],
+['Máy in &amp; ngoại vi|Printers &amp; peripherals','Kết nối, cấu hình máy in, scanner, thiết bị văn phòng.|Connect and configure printers, scanners and peripherals.']]],
+config:['Cấu hình hệ thống|System configuration','Cấu hình firewall, switch, Wi-Fi và VPN đúng chuẩn, kèm tài liệu bàn giao.|Firewall, switch, Wi-Fi and VPN configured properly, with handover documents.',[
+['Firewall &amp; VPN|Firewall &amp; VPN','FortiGate, Peplink...; VPN site-to-site, VPN người dùng, IP tĩnh.|FortiGate, Peplink...; site-to-site and user VPN, static IP.'],
+['Switch &amp; VLAN|Switching &amp; VLAN','Cisco, H3C, Aruba: chia VLAN, PoE, khôi phục sau sự cố.|Cisco, H3C, Aruba: VLANs, PoE, recovery after incidents.'],
+['Wi-Fi văn phòng|Office Wi-Fi','Aruba Instant On, Ruckus: phủ sóng, SSID khách và nội bộ.|Aruba Instant On, Ruckus: coverage, guest and staff SSIDs.'],
+['Tài liệu bàn giao|Handover documents','Sơ đồ mạng, bảng IP, tài khoản và bản sao lưu cấu hình.|Network diagram, IP table, accounts and config backups.'],
+['Văn phòng mới &amp; di dời|New office &amp; relocation','Khảo sát, đi cáp, dựng hệ thống mạng và chuyển văn phòng ít gián đoạn.|Survey, cabling, network build and low-downtime office moves.']]],
+admin:['Quản trị hệ thống IT|IT systems administration','Quản trị, giám sát và sao lưu cấu hình hệ thống IT mỗi ngày.|Day-to-day administration, monitoring and config backup.',[
+['Giám sát hệ thống|System monitoring','Theo dõi mạng, thiết bị và cảnh báo sớm khi có sự cố.|Track network and devices with early incident alerts.'],
+['Tài khoản &amp; phân quyền|Accounts &amp; permissions','Quản lý người dùng, nhóm, quyền truy cập khi nhân sự thay đổi.|Manage users, groups and access as staff change.'],
+['Sao lưu cấu hình|Config backup','Lưu bản cấu hình thiết bị để khôi phục nhanh.|Keep device configs for fast recovery.'],
+['Báo cáo định kỳ|Regular reports','Tổng hợp sự cố, thiết bị và đề xuất cải thiện hằng tháng.|Monthly summary of incidents, devices and improvements.'],
+['Chính sách &amp; quy trình IT|IT policies &amp; procedures','Xây dựng quy trình, hướng dẫn người dùng và quy định sử dụng hệ thống.|Procedures, user guides and system usage rules.']]],
+hardware:['Báo giá thiết bị|Hardware quotes','Báo giá thiết bị IT từ mọi hãng, mọi loại, theo đúng nhu cầu của bạn.|Quotes for IT hardware from any brand and of any type, matched to your needs.',[
+['Mọi hãng, mọi loại|Any brand, any type','Thiết bị mạng, máy chủ, máy tính, thiết bị văn phòng và nhiều hơn nữa...|Network gear, servers, PCs, office equipment and more...'],
+['Hạ tầng đi kèm|Supporting infrastructure','UPS, tủ rack, cáp mạng và phụ kiện...|UPS, racks, cabling and accessories...'],
+['Tư vấn chọn thiết bị|Choosing the right gear','So sánh các lựa chọn theo ngân sách và nhu cầu sử dụng.|Compare options by budget and use case.'],
+['Báo giá nhanh|Fast quotes','Gửi nhu cầu, nhận báo giá trong 1 ngày làm việc, giao và lắp đặt.|Send your needs, get a quote in 1 business day, delivery and install.']]],
+pricing:['Bảng giá|Pricing','Gói hỗ trợ theo tháng; dự án thiết lập báo giá riêng theo phạm vi.|Monthly support plans; setup projects are quoted by scope.'],
+m365:['Email &amp; Workspace|Email &amp; Workspace','Quản trị Microsoft 365, Google Workspace và hệ thống email cho doanh nghiệp.|Administration of Microsoft 365, Google Workspace and business email.',[
+['Quản trị tài khoản mail|Mail account admin','Tạo, phân quyền, đặt lại mật khẩu và thu hồi tài khoản khi nhân sự thay đổi.|Create, assign rights, reset passwords and offboard accounts.'],
+['Thiết lập &amp; chuyển email|Setup &amp; migration','Tên miền, MFA, chuyển hộp thư giữa các nhà cung cấp...|Domain, MFA, mailbox migration between providers...'],
+['Firewall &amp; lọc email|Email firewall &amp; filtering','Chống spam, chặn thư độc hại, cấu hình SPF, DKIM, DMARC.|Anti-spam, malicious mail blocking, SPF, DKIM and DMARC setup.'],
+['SharePoint, Teams &amp; Drive|SharePoint, Teams &amp; Drive','Cấu trúc thư viện, phân quyền, cộng tác nhóm.|Library structure, permissions and team collaboration.']]],
+auto:['Tự động hóa &amp; ERP|Automation &amp; ERP','Power Apps, Power Automate và kết nối ERP cho quy trình nội bộ.|Power Apps, Power Automate and ERP links for internal workflows.',[
+['Power Apps|Power Apps','Ứng dụng nội bộ thay cho bảng tính và biểu mẫu thủ công.|Internal apps replacing spreadsheets and manual forms.'],
+['Power Automate|Power Automate','Tự động hóa phê duyệt, thông báo, đồng bộ dữ liệu.|Automate approvals, notices and data sync.'],
+['ERP: Lark, Misa|ERP: Lark, Misa','Tư vấn và kết nối quy trình với nền tảng ERP đang dùng.|Advice and workflow links to your ERP platform.']]],
+pbx:['Tổng đài &amp; ra vào|Phone &amp; access','Tổng đài, số ảo và hệ thống thẻ ra vào cho văn phòng.|Phone systems, virtual numbers and card access for offices.',[
+['Tổng đài PBX|PBX','Cấu hình, xử lý lỗi gọi ra/gọi vào, kiểm tra đường truyền.|Configuration, call fault handling and line checks.'],
+['Số ảo|Virtual numbers','Thiết lập số ảo quốc tế, chuyển cuộc gọi về Việt Nam.|International virtual numbers forwarded to Vietnam.'],
+['Thẻ ra vào|Card access','Đăng ký thẻ, phân quyền khu vực, tự động hóa nhập liệu.|Card enrolment, zone rights and automated data entry.']]],
+lic:['Bản quyền phần mềm|Software licenses','Kiểm kê bản quyền Windows, phần mềm và đề xuất mua sắm.|Windows and software license review with purchasing advice.',[
+['Kiểm kê|Inventory','Rà soát từng máy, ghi nhận phiên bản và tình trạng bản quyền.|Check each PC for version and license status.'],
+['Báo cáo Excel|Excel report','Bảng tổng hợp, dashboard và danh sách cần xử lý.|Summary, dashboard and action list.'],
+['Đề xuất mua sắm|Purchasing advice','Gợi ý license, nâng cấp ổ cứng và phần mềm thay thế.|License, SSD upgrade and alternative software suggestions.']]]
+};
+var PL=[['Basic|Basic','Cho văn phòng nhỏ|For small offices',[['Người dùng|Users','Đến 10|Up to 10'],['Helpdesk|Helpdesk','Từ xa, giờ hành chính|Remote, business hours'],['Kiểm tra hệ thống|Health check','Hằng tháng|Monthly'],['Tại chỗ|On-site','Theo yêu cầu|On request']]],
+['Standard|Standard','Phổ biến nhất|Most popular',[['Người dùng|Users','Theo báo giá|Per quote'],['Helpdesk|Helpdesk','Từ xa + tại chỗ|Remote + on-site'],['Mạng / Wi-Fi / VPN|Network / Wi-Fi / VPN','Quản lý trọn gói|Fully managed'],['Email &amp; Workspace|Email &amp; Workspace','Quản trị tài khoản|Account admin'],['Tại chỗ|On-site','Hằng tháng|Monthly']]],
+['Premium|Premium','Nhiều địa điểm|Multi-site',[['Người dùng|Users','Theo báo giá|Per quote'],['Phản hồi|Response','Ưu tiên (SLA)|Priority (SLA)'],['Địa điểm|Sites','Nhiều địa điểm|Multiple'],['Giám sát|Monitoring','Chủ động|Proactive']]]];
+var T={home:'Trang chủ|Home',about:'Về ITSS|About ITSS',services:'Dịch vụ|Services',solutions:'Giải pháp|Solutions',contact:'Liên hệ|Contact'};
+var $=function(i){return document.getElementById(i)};
+function ttl(k){return P[k]?P[k][0]:T[k]}
+function menu(){var h='<div><a href="#/">'+s(T.home)+'</a><div class="dd"><a href="#/about">'+s(T.about)+'</a></div></div>';
+[['services',SV],['solutions',SO]].forEach(function(g){h+='<div><a href="#/'+g[0]+'">'+s(T[g[0]])+'</a><div class="dd">'+g[1].map(function(k){return'<a href="#/'+k+'">'+s(P[k][0])+'</a>'}).join('')+'</div></div>'});
+return h+'<div><a href="#/contact">'+s(T.contact)+'</a></div>'}
+function cards(a){return'<div class="g">'+a.map(function(c,i){return'<div class="c"><div class="ic">0'+(i+1)+'</div><h3>'+s(c[0])+'</h3><p>'+s(c[1])+'</p></div>'}).join('')+'</div>'}
+function links(ks){return'<div class="g">'+ks.map(function(k,i){return'<a class="c" href="#/'+k+'"><div class="ic">0'+(i+1)+'</div><h3>'+s(P[k][0])+'</h3><p>'+s(P[k][1])+'</p></a>'}).join('')+'</div>'}
+function head(k){return'<div class="ph1"><div class="w"><div class="bc"><a href="#/">'+s(T.home)+'</a> / '+s(ttl(k))+'</div><h1>'+s(ttl(k))+'</h1>'+(P[k]?'<p>'+s(P[k][1])+'</p>':'')+'</div></div>'}
+function cta(){return'<div class="cta"><div class="w"><h2>'+s('Cần một đối tác IT cho văn phòng?|Need an IT partner for your office?')+'</h2><p>'+s('Chia sẻ nhu cầu, chúng tôi đề xuất phạm vi và báo giá trong 1 ngày làm việc.|Share your needs and we propose scope and a quote within 1 business day.')+'</p><a class="btn" href="#/contact">'+s('Yêu cầu tư vấn|Request advice')+'</a></div></div>'}
+function plans(){return'<section><div class="w"><div class="g">'+PL.map(function(p,i){return'<div class="c pl'+(i==1?' hl':'')+'"><div class="ph"><h3>'+s(p[0])+'</h3><span>'+s(p[1])+'</span></div>'+p[2].map(function(r){return'<div class="r"><span>'+s(r[0])+'</span><span>'+s(r[1])+'</span></div>'}).join('')+'<div class="pf"><a class="btn" href="#/contact">'+s('Liên hệ báo giá|Request quote')+'</a></div></div>'}).join('')+'</div></div></section>'}
+function chips(a){return'<div class="tg">'+a.map(function(x){return'<span>'+x+'</span>'}).join('')+'</div>'}
+function form(){var o=function(a){return a.map(function(x){return'<option>'+s(x)+'</option>'}).join('')};
+return'<section><div class="w"><form id="f"><input name="n" required placeholder="'+s('Họ tên|Full name')+'"><input name="p" placeholder="'+s('Số điện thoại / Zalo|Phone / chat')+'"><input name="c" placeholder="'+s('Tên công ty|Company')+'"><input name="e" type="email" required placeholder="Email"><select name="z">'+o(['0-10 '+'người|0-10 people','11-30 người|11-30 people','31-100 người|31-100 people','>100 người|>100 people'])+'</select><select name="t">'+o(['IT Support / Helpdesk|IT Support / Helpdesk','Cấu hình hệ thống|System configuration','Báo giá thiết bị|Hardware quote','Microsoft 365|Microsoft 365','Khác|Other'])+'</select><textarea name="m" rows="4" placeholder="'+s('Mô tả nhu cầu|Describe your needs')+'"></textarea><button class="btn" type="submit">'+s('Gửi yêu cầu|Send request')+'</button></form></div></section>'}
+function info(){return'<div class="ci"><div class="c"><h3>'+s('Địa chỉ|Address')+'</h3><p>'+s('15 Lê Thánh Tôn, phường Sài Gòn, TP. HCM|15 Lê Thánh Tôn, Sài Gòn Ward, Ho Chi Minh City')+'</p></div><a class="c" href="mailto:hello@itss.asia"><h3>Email</h3><p>hello@itss.asia</p></a><a class="c" href="https://wa.me/84908842096"><h3>'+s('Điện thoại / WhatsApp|Phone / WhatsApp')+'</h3><p>+84 908 842 096</p></a></div>'}
+function home(){var hb=['helpdesk','config','hardware'];
+return'<div class="hero"><div class="w hg"><div><span class="tag">ITSS.ASIA VIỆT NAM</span><h1>'+s('Dịch vụ IT, cấu hình hệ thống và báo giá thiết bị|IT services, system configuration and hardware quotes')+'</h1><p class="l">'+s('ITSS giúp văn phòng vận hành IT Support, mạng, Microsoft 365 và thiết bị theo một lộ trình rõ ràng.|ITSS runs IT support, networks, Microsoft 365 and hardware for your office on a clear roadmap.')+'</p><a class="btn" href="#/contact">'+s('Liên hệ tư vấn IT|Talk to us')+'</a><a class="btn o" href="#/services">'+s('Xem nhóm dịch vụ|See services')+'</a></div><div class="pn"><h3>'+s('Bắt đầu từ đúng nhu cầu|Start from your need')+'</h3>'+hb.map(function(k){return'<a href="#/'+k+'"><b>'+s(P[k][0])+'</b><span>'+s(P[k][1])+'</span></a>'}).join('')+'</div></div></div>'
++'<section><div class="w"><div class="eb">'+s('Dịch vụ|Services')+'</div><h2>'+s('Nhóm dịch vụ trọng tâm|Core service groups')+'</h2><p class="sub">'+s('Bắt đầu từ một nhóm dịch vụ hoặc kết hợp nhiều phạm vi thành mô hình IT thuê ngoài.|Start with one group or combine several into an outsourced IT model.')+'</p>'+links(['helpdesk','support','config','admin','hardware','m365'])+'</div></section>'
++'<div class="st"><div class="w"><div class="sg"><div><b>6+</b><span>'+s('năm hạ tầng &amp; vận hành IT|years in IT infrastructure &amp; operations')+'</span></div><div><b>ITIL</b><span>Foundation v5</span></div><div><b>CSM</b><span>Certified ScrumMaster</span></div><div><b>1 '+s('ngày|day')+'</b><span>'+s('phản hồi báo giá|quote response')+'</span></div></div></div></div>'
++'<section class="gr"><div class="w"><div class="eb">'+s('Quy trình|Process')+'</div><h2>'+s('Làm việc đơn giản trong 4 bước|Simple, in 4 steps')+'</h2><p class="sub"></p>'+cards([['Khảo sát|Survey','Tìm hiểu mặt bằng, số người dùng và nhu cầu.|Understand floor plan, users and needs.'],['Báo giá|Quote','Phạm vi và chi phí rõ ràng, không phát sinh ẩn.|Clear scope and cost, no hidden extras.'],['Triển khai|Deploy','Lắp đặt, cấu hình, kiểm tra, bàn giao tài liệu.|Install, configure, test, hand over documents.'],['Vận hành|Operate','Hỗ trợ theo gói tháng, xử lý sự cố nhanh.|Monthly support, fast incident handling.']])+'</div></section>'
+
++'<section class="gr"><div class="w"><div class="eb">FAQ</div><h2>'+s('Câu hỏi thường gặp|Frequently asked questions')+'</h2><p class="sub"></p>'+[['Bạn hỗ trợ khu vực nào?|Which areas do you cover?','Đội ngũ có mặt tại TP. Hồ Chí Minh và Hà Nội, hỗ trợ từ xa cho các khu vực khác.|Our team is based in Ho Chi Minh City and Hanoi, with remote support for other areas.'],['Có thể bắt đầu nhỏ không?|Can we start small?','Được. Bạn có thể chỉ thuê một dự án thiết lập hoặc một báo giá thiết bị, gói hỗ trợ tháng là tùy chọn.|Yes. You can hire a single setup project or hardware quote; monthly plans are optional.'],['Có hỗ trợ khách nước ngoài không?|Do you support foreign clients?','Có. Làm việc bằng tiếng Anh và tiếng Việt, phối hợp với đơn vị IT ở trụ sở nước ngoài.|Yes. We work in English and Vietnamese and coordinate with your overseas IT provider.'],['Thiết bị mua ở đâu?|Where does hardware come from?','Chúng tôi cung cấp thiết bị của mọi hãng, mọi loại; bạn cũng có thể dùng thiết bị sẵn có.|We supply equipment from any brand and of any type; you can also reuse existing equipment.']].map(function(f){return'<details><summary>'+s(f[0])+'</summary><p>'+s(f[1])+'</p></details>'}).join('')+'</div></section>'+cta()}
+function page(k){
+if(k==='')return home();
+if(k==='services')return head(k)+'<section><div class="w">'+links(SV)+'</div></section>'+cta();
+if(k==='solutions')return head(k)+'<section><div class="w">'+links(SO)+'</div></section>'+cta();
+if(k==='pricing')return head(k)+plans()+cta();
+if(k==='contact')return head(k)+'<section><div class="w"><p class="sub">'+s('Cho chúng tôi biết về văn phòng của bạn. Phản hồi trong 1 ngày làm việc.|Tell us about your office. We reply within 1 business day.')+'</p>'+info()+'</div></section>'+form();
+if(k==='about')return head(k)+'<section><div class="w"><p class="sub">'+s('ITSS.asia là đội ngũ IT tại TP. Hồ Chí Minh và Hà Nội, tập trung vào hạ tầng, cấu hình hệ thống và hỗ trợ vận hành cho văn phòng, với kinh nghiệm quản lý IT cho văn phòng nhiều địa điểm.|ITSS.asia is an IT team in Ho Chi Minh City and Hanoi focused on infrastructure, system configuration and operations support for offices, with experience running IT across multi-site offices.')+'</p>'+'</div></section>'+cta();
+var d=P[k];if(!d)return home();
+return head(k)+'<section><div class="w">'+cards(d[2])+(d[3]?'<br>'+chips(d[3]):'')+'</div></section>'+cta()}
+function foot(){var col=function(t,ks){return'<div><h4>'+s(t)+'</h4>'+ks.map(function(k){return'<a href="#/'+k+'">'+s(ttl(k))+'</a>'}).join('')+'</div>'};
+$('ft').innerHTML='<footer><div class="w"><div class="fg"><div><h4>ITSS.asia</h4><p>'+s('Dịch vụ IT cho văn phòng. Đội ngũ tại TP. Hồ Chí Minh và Hà Nội.|IT services for offices. Team in Ho Chi Minh City and Hanoi.')+'</p><p>'+s('15 Lê Thánh Tôn, phường Sài Gòn, TP. HCM|15 Lê Thánh Tôn, Sài Gòn Ward, Ho Chi Minh City')+'</p><a href="mailto:hello@itss.asia">hello@itss.asia</a><a href="https://wa.me/84908842096">+84 908 842 096</a></div>'+col('Dịch vụ|Services',SV)+col('Giải pháp|Solutions',SO)+col('Công ty|Company',['about','contact'])+'</div><div class="cp">© ITSS.asia</div></div></footer>'}
+function render(){var k=location.hash.replace(/^#\/?/,'');if(k&&k!=='about'&&k!=='services'&&k!=='solutions'&&k!=='contact'&&!P[k])k='';
+$('mn').innerHTML=menu();$('mn').className='mn';$('app').innerHTML=page(k);foot();$('lg').textContent=L?'VI':'EN';$('fl').textContent=s('Nhận báo giá|Get a quote');
+document.documentElement.lang=L?'en':'vi';document.title=(k?s(ttl(k)).replace(/&amp;/g,'&')+' | ':'')+'ITSS.asia';window.scrollTo(0,0);
+var f=$('f');if(f)f.onsubmit=function(e){e.preventDefault();var d=new FormData(f);location.href='mailto:hello@itss.asia?subject='+encodeURIComponent(d.get('t')+' - '+d.get('n'))+'&body='+encodeURIComponent(d.get('m')+'\n\n'+d.get('n')+' | '+d.get('c')+' | '+d.get('p')+' | '+d.get('e')+' | '+d.get('z'))}}
+$('lg').onclick=function(){L=L?0:1;try{localStorage.setItem('itss-l',L?'en':'vi')}catch(e){}render()};
+$('bg').onclick=function(){$('mn').classList.toggle('o')};
+window.addEventListener('hashchange',render);render();
+})();
+</script>
+</body>
+</html>
