@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-<url><loc>https://itss.asia/</loc><lastmod>2026-10-22</lastmod><priority>1.0</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/"/></url>
-<url><loc>https://itss.asia/it-helpdesk/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/it-helpdesk/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/it-helpdesk/"/></url>
-<url><loc>https://itss.asia/it-support/</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/it-support/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/it-support/"/></url>
-<url><loc>https://itss.asia/cau-hinh-he-thong/</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/cau-hinh-he-thong/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/system-configuration/"/></url>
-<url><loc>https://itss.asia/quan-tri-he-thong-it/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/quan-tri-he-thong-it/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/it-systems-administration/"/></url>
-<url><loc>https://itss.asia/bao-gia-thiet-bi/</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/bao-gia-thiet-bi/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/hardware-quotes/"/></url>
-<url><loc>https://itss.asia/bang-gia/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/bang-gia/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/pricing/"/></url>
-<url><loc>https://itss.asia/email-workspace/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/email-workspace/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/email-workspace/"/></url>
-<url><loc>https://itss.asia/tu-dong-hoa-erp/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/tu-dong-hoa-erp/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/automation-erp/"/></url>
-<url><loc>https://itss.asia/tong-dai-ra-vao/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/tong-dai-ra-vao/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/phone-access-control/"/></url>
-<url><loc>https://itss.asia/ban-quyen-phan-mem/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/ban-quyen-phan-mem/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/software-licenses/"/></url>
-<url><loc>https://itss.asia/ve-itss/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/ve-itss/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/about/"/></url>
-<url><loc>https://itss.asia/lien-he/</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/lien-he/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/contact/"/></url>
-<url><loc>https://itss.asia/dich-vu/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/dich-vu/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/services/"/></url>
-<url><loc>https://itss.asia/giai-phap/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/giai-phap/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/solutions/"/></url>
-<url><loc>https://itss.asia/en/</loc><lastmod>2026-10-22</lastmod><priority>1.0</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/"/></url>
-<url><loc>https://itss.asia/en/it-helpdesk/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/it-helpdesk/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/it-helpdesk/"/></url>
-<url><loc>https://itss.asia/en/it-support/</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/it-support/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/it-support/"/></url>
-<url><loc>https://itss.asia/en/system-configuration/</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/cau-hinh-he-thong/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/system-configuration/"/></url>
-<url><loc>https://itss.asia/en/it-systems-administration/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/quan-tri-he-thong-it/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/it-systems-administration/"/></url>
-<url><loc>https://itss.asia/en/hardware-quotes/</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/bao-gia-thiet-bi/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/hardware-quotes/"/></url>
-<url><loc>https://itss.asia/en/pricing/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/bang-gia/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/pricing/"/></url>
-<url><loc>https://itss.asia/en/email-workspace/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/email-workspace/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/email-workspace/"/></url>
-<url><loc>https://itss.asia/en/automation-erp/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/tu-dong-hoa-erp/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/automation-erp/"/></url>
-<url><loc>https://itss.asia/en/phone-access-control/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/tong-dai-ra-vao/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/phone-access-control/"/></url>
-<url><loc>https://itss.asia/en/software-licenses/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/ban-quyen-phan-mem/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/software-licenses/"/></url>
-<url><loc>https://itss.asia/en/about/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/ve-itss/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/about/"/></url>
-<url><loc>https://itss.asia/en/contact/</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/lien-he/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/contact/"/></url>
-<url><loc>https://itss.asia/en/services/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/dich-vu/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/services/"/></url>
-<url><loc>https://itss.asia/en/solutions/</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority><xhtml:link rel="alternate" hreflang="vi" href="https://itss.asia/giai-phap/"/><xhtml:link rel="alternate" hreflang="en" href="https://itss.asia/en/solutions/"/></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://itss.asia/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/bang-gia/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/about/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/contact/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/it-helpdesk/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/it-support-van-phong/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/cau-hinh-firewall-mang-van-phong/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/quan-tri-he-thong-it/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/bao-gia-thiet-bi-mang/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/email-workspace/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/tu-dong-hoa-erp/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/tong-dai-ra-vao/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/dich-vu/ban-quyen-phan-mem/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/pricing/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/about/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/contact/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/it-helpdesk/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/it-support/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/system-configuration/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/it-systems-administration/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/hardware-quotes/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/email-workspace/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/automation-erp/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/phone-access-control/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://itss.asia/en/services/software-licenses/</loc><lastmod>2026-10-26</lastmod></url>
 </urlset>
