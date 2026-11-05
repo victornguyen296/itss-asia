@@ -1,0 +1,36 @@
+# ITSS.asia
+
+> ITSS (IT Support & Services) is an IT team in Ho Chi Minh City and Hanoi, Vietnam. We provide IT helpdesk and support, office network and firewall configuration, systems administration, Microsoft 365 / Google Workspace administration, hardware quotes (any brand), automation and ERP, phone systems and access control, and software license review for small and foreign-owned offices. We work in English and Vietnamese. Free 30-minute office IT and network review; quotes within 1 business day.
+
+Contact: hello@itss.asia | WhatsApp +84 908 842 096 | 15 Lê Thánh Tôn, Sài Gòn Ward, Ho Chi Minh City
+
+## Services (English)
+- [IT Helpdesk](https://itss.asia/it-helpdesk/): One point of contact for every user support request.
+- [IT Support](https://itss.asia/it-support/): Remote and on-site support for PCs, email, network and printers in Ho Chi Minh City and Hanoi.
+- [System configuration (firewall, network, Wi-Fi, VPN)](https://itss.asia/system-configuration/): Firewall, switch, Wi-Fi and VPN configured properly, with handover documents.
+- [IT systems administration](https://itss.asia/it-systems-administration/): Day-to-day administration, monitoring and config backup.
+- [Hardware quotes](https://itss.asia/hardware-quotes/): Quotes for IT hardware from any brand and of any type, matched to your needs.
+- [Email & Workspace](https://itss.asia/email-workspace/): Administration of Microsoft 365, Google Workspace and business email.
+- [Automation & ERP](https://itss.asia/automation-erp/): Power Apps, Power Automate, Lark, Misa and chatbots for internal workflows.
+- [Phone systems & access control](https://itss.asia/phone-access-control/): PBX phone systems, virtual numbers and card access for offices.
+- [Software license review](https://itss.asia/software-licenses/): Windows and software license review with purchasing advice.
+
+## Key pages
+- [Pricing: monthly IT support plans](https://itss.asia/pricing/)
+- [Free 30-minute office IT & network review](https://itss.asia/free-review/)
+- [New office IT checklist](https://itss.asia/new-office-it-checklist/)
+- [IT support in Ho Chi Minh City](https://itss.asia/en/it-support-ho-chi-minh-city/)
+- [Office firewall and network configuration in Vietnam](https://itss.asia/en/office-firewall-network-configuration/)
+- [Network and IT hardware quotes in Vietnam](https://itss.asia/en/network-hardware-quotes-vietnam/)
+- [About ITSS](https://itss.asia/about/)
+- [Contact](https://itss.asia/contact/)
+- [Referral partners](https://itss.asia/referral-partners/)
+
+## Tiếng Việt
+- [Trang chủ](https://itss.asia/vi/)
+- [Dịch vụ](https://itss.asia/vi/dich-vu/)
+- [IT support văn phòng TP.HCM](https://itss.asia/vi/it-support-van-phong-tphcm/)
+- [Cấu hình firewall và mạng văn phòng](https://itss.asia/vi/cau-hinh-firewall-mang-van-phong/)
+- [Báo giá thiết bị mạng và IT](https://itss.asia/vi/bao-gia-thiet-bi-mang/)
+- [Bảng giá](https://itss.asia/vi/bang-gia/)
+- [Liên hệ](https://itss.asia/vi/lien-he/)
